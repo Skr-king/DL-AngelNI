@@ -12,4 +12,4 @@ K-nearest-neighbor
 
 gradient descent's test
 
-KNN's test and KNN's learning note is in week-1
+KNN's test 
