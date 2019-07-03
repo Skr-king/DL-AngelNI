@@ -4,11 +4,12 @@ User ： Hui Ning or Sky
 
 Introduction： an evolving rookie  
 ## My Study  :notebook_with_decorative_cover:
-### week-1
+### :lollipop:Learining note
 k-means,gradient descent，matrix factorization,
 K-nearest-neighbor
 
-### week-test-1
+### :lollipop:week-test
+
 gradient descent's test
-### week—test-2
+
 KNN's test and KNN's learning note is in week-1
