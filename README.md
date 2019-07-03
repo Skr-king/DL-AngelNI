@@ -2,7 +2,9 @@
 ## Who am I  ？:star:
 User ： Hui Ning or Sky
 
-Introduction： an evolving rookie  
+Introduction： an evolving rookie
+
+My blog : <https://skr-king.github.io/>  (PS:Blog is being repaired)
 ## My Study  :notebook_with_decorative_cover:
 ### :lollipop:Learining note
 k-means,gradient descent，matrix factorization,
