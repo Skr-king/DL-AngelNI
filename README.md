@@ -10,3 +10,5 @@ K-nearest-neighbor
 
 ### week-test-1
 gradient descent's test
+### week—test-2
+KNN's test and KNN's learning note is in week-1
