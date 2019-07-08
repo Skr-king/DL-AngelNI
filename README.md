@@ -4,7 +4,7 @@ User ： Hui Ning or Sky
 
 Introduction： an evolving rookie
 
-My blog : <https://skr-king.github.io/>  (PS:Blog is being repaired)
+My blog : <https://skr-king.github.io/>
 ## My Study  :notebook_with_decorative_cover:
 ### :lollipop:Learining note
 k-means,gradient descent，matrix factorization,
